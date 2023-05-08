@@ -1,4 +1,4 @@
-# tableau-projects
+# Student- Performance- Tracker- Sample
 This project is a data tracking tool designed to monitor the performance of students in different subjects across various terms or quarters. It provides the functionality to view examination results based on selected dates and allows users to choose specific student names to access detailed information.
 
 The primary purpose of the project is to offer insights into student performance by utilizing line charts as the main visualization method. Line charts are effective for illustrating trends and changes over time, making them suitable for representing the academic progress of students across different terms.
